@@ -1,0 +1,11 @@
+setup.py
+lsc/__init__.py
+lsc/_header.py
+lsc/_shell.py
+lsc/logged_shell_command.py
+lsc/test_lsc.py
+lsc.egg-info/PKG-INFO
+lsc.egg-info/SOURCES.txt
+lsc.egg-info/dependency_links.txt
+lsc.egg-info/entry_points.txt
+lsc.egg-info/top_level.txt
